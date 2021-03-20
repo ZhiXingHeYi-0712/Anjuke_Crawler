@@ -4,3 +4,6 @@
 *.prj
 *.shx
 *.png
+.idea
+.git
+__pycache__
